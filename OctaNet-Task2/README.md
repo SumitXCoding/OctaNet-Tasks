@@ -10,7 +10,6 @@ This project is a simple To-Do List web application developed for OctaNet Task 2
 - [Installation](#installation)
 - [Usage](#usage)
 - [Demo](#demo)
-- [License](#license)
 
 ## Introduction
 
